@@ -1,0 +1,5 @@
+Alê: 1
+kota: 1
+ma: 2
+kot: 1
+Ala: 1

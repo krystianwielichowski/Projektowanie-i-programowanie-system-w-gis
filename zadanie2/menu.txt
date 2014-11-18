@@ -1,0 +1,5 @@
+Frytki: 4.00
+Ziemniaki: 2.50
+Kotlet: 5.00
+Placki ziemniaczane: 6.00
+Pierogi: 7.00
